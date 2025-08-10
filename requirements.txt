@@ -1,0 +1,7 @@
+requests
+pandas
+python-dotenv
+vaderSentiment
+streamlit
+tweepy
+logging
